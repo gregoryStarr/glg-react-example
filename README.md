@@ -29,3 +29,6 @@ https://github.com/reactjs/rfcs/pull/68
     - useState
     - useEffects
 - Mob-x State Management
+
+## Optimized Prod Builds
+running 'yarn run build' will optimize both the css and js assets based on what is used in your code, and shake out what's unused.
