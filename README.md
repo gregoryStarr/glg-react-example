@@ -1,6 +1,6 @@
-#GLG React Example
+# GLG React Example
 
-##Instructions
+## Instructions
 Install yarn 
 ```
 brew install yarn
@@ -12,7 +12,7 @@ Then...
 yarn && yarn start
 ```
 
-##Overview
+## Overview
 An example project using the following
 - ReactJS : v16.7.0.alpha.0 (Backward compatible to stable v16.6.0)
 https://github.com/reactjs/rfcs/pull/68
